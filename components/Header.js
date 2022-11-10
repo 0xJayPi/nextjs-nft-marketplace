@@ -67,13 +67,13 @@
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/diffs-011d7c937f44.js"></script>
   
 
-  <title>nextjs-nft-marketplace-moralis-fcc/index.js at main · PatrickAlphaC/nextjs-nft-marketplace-moralis-fcc</title>
+  <title>nextjs-nft-marketplace-moralis-fcc/Header.js at main · PatrickAlphaC/nextjs-nft-marketplace-moralis-fcc</title>
 
 
 
     
 
-  <meta name="request-id" content="F40A:BBFC:945C53B:97D02E6:636CDCEC" data-turbo-transient="true" /><meta name="html-safe-nonce" content="32919e09b6290f6d8ad7ad41b52bbe2d8565782d34d02513e061311d5faefd6d" data-turbo-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9QYXRyaWNrQWxwaGFDL25leHRqcy1uZnQtbWFya2V0cGxhY2UtbW9yYWxpcy1mY2MvdHJlZS9tYWluL3BhZ2VzIiwicmVxdWVzdF9pZCI6IkY0MEE6QkJGQzo5NDVDNTNCOjk3RDAyRTY6NjM2Q0RDRUMiLCJ2aXNpdG9yX2lkIjoiMTk3MDY4MzI5NjYwMTgwNTc3OSIsInJlZ2lvbl9lZGdlIjoiZnJhIiwicmVnaW9uX3JlbmRlciI6ImlhZCJ9" data-turbo-transient="true" /><meta name="visitor-hmac" content="c5675d7754cec393d325a750056879766e28bed596b1bafbb6f93addf793310b" data-turbo-transient="true" />
+  <meta name="request-id" content="F40A:BBFC:94517DF:97C5243:636CDCC6" data-turbo-transient="true" /><meta name="html-safe-nonce" content="32919e09b6290f6d8ad7ad41b52bbe2d8565782d34d02513e061311d5faefd6d" data-turbo-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9QYXRyaWNrQWxwaGFDL25leHRqcy1uZnQtbWFya2V0cGxhY2UtbW9yYWxpcy1mY2MvdHJlZS9tYWluL2NvbXBvbmVudHMiLCJyZXF1ZXN0X2lkIjoiRjQwQTpCQkZDOjk0NTE3REY6OTdDNTI0Mzo2MzZDRENDNiIsInZpc2l0b3JfaWQiOiIxOTcwNjgzMjk2NjAxODA1Nzc5IiwicmVnaW9uX2VkZ2UiOiJmcmEiLCJyZWdpb25fcmVuZGVyIjoiaWFkIn0=" data-turbo-transient="true" /><meta name="visitor-hmac" content="e5826f3446dace9d44cce95e2b0554c9948bf3645bdf4045ddc640c6d96fdb6e" data-turbo-transient="true" />
 
     <meta name="hovercard-subject-tag" content="repository:482951716" data-turbo-transient>
 
@@ -111,11 +111,11 @@
     <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
     <meta property="fb:app_id" content="1401488693436528">
     <meta name="apple-itunes-app" content="app-id=1477376905" />
-      <meta name="twitter:image:src" content="https://opengraph.githubassets.com/229be503d65cce5ba40d0c1b3129bc7b7b3207b49c9b76f8951d3481c5ca4f15/PatrickAlphaC/nextjs-nft-marketplace-moralis-fcc" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="nextjs-nft-marketplace-moralis-fcc/index.js at main · PatrickAlphaC/nextjs-nft-marketplace-moralis-fcc" /><meta name="twitter:description" content="Contribute to PatrickAlphaC/nextjs-nft-marketplace-moralis-fcc development by creating an account on GitHub." />
-      <meta property="og:image" content="https://opengraph.githubassets.com/229be503d65cce5ba40d0c1b3129bc7b7b3207b49c9b76f8951d3481c5ca4f15/PatrickAlphaC/nextjs-nft-marketplace-moralis-fcc" /><meta property="og:image:alt" content="Contribute to PatrickAlphaC/nextjs-nft-marketplace-moralis-fcc development by creating an account on GitHub." /><meta property="og:image:width" content="1200" /><meta property="og:image:height" content="600" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="nextjs-nft-marketplace-moralis-fcc/index.js at main · PatrickAlphaC/nextjs-nft-marketplace-moralis-fcc" /><meta property="og:url" content="https://github.com/PatrickAlphaC/nextjs-nft-marketplace-moralis-fcc" /><meta property="og:description" content="Contribute to PatrickAlphaC/nextjs-nft-marketplace-moralis-fcc development by creating an account on GitHub." />
+      <meta name="twitter:image:src" content="https://opengraph.githubassets.com/229be503d65cce5ba40d0c1b3129bc7b7b3207b49c9b76f8951d3481c5ca4f15/PatrickAlphaC/nextjs-nft-marketplace-moralis-fcc" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="nextjs-nft-marketplace-moralis-fcc/Header.js at main · PatrickAlphaC/nextjs-nft-marketplace-moralis-fcc" /><meta name="twitter:description" content="Contribute to PatrickAlphaC/nextjs-nft-marketplace-moralis-fcc development by creating an account on GitHub." />
+      <meta property="og:image" content="https://opengraph.githubassets.com/229be503d65cce5ba40d0c1b3129bc7b7b3207b49c9b76f8951d3481c5ca4f15/PatrickAlphaC/nextjs-nft-marketplace-moralis-fcc" /><meta property="og:image:alt" content="Contribute to PatrickAlphaC/nextjs-nft-marketplace-moralis-fcc development by creating an account on GitHub." /><meta property="og:image:width" content="1200" /><meta property="og:image:height" content="600" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="nextjs-nft-marketplace-moralis-fcc/Header.js at main · PatrickAlphaC/nextjs-nft-marketplace-moralis-fcc" /><meta property="og:url" content="https://github.com/PatrickAlphaC/nextjs-nft-marketplace-moralis-fcc" /><meta property="og:description" content="Contribute to PatrickAlphaC/nextjs-nft-marketplace-moralis-fcc development by creating an account on GitHub." />
       
     <link rel="assets" href="https://github.githubassets.com/">
-      <link rel="shared-web-socket" href="wss://alive.github.com/_sockets/u/89362795/ws?session=eyJ2IjoiVjMiLCJ1Ijo4OTM2Mjc5NSwicyI6OTY1ODYxNjA0LCJjIjo2NDEwOTE4LCJ0IjoxNjY4MDc4ODMzfQ==--9a63056eebe9ffd12467cce2910641ebe7ee93060c52059a947529c43aa9f031" data-refresh-url="/_alive" data-session-id="0ff41290a437a165c629e328de364ac83767c48b4f5b425de67051f99eefe5e4">
+      <link rel="shared-web-socket" href="wss://alive.github.com/_sockets/u/89362795/ws?session=eyJ2IjoiVjMiLCJ1Ijo4OTM2Mjc5NSwicyI6OTY1ODYxNjA0LCJjIjozOTU0OTMwNDEzLCJ0IjoxNjY4MDc4Nzk5fQ==--3d90e4193487dcefacfddd3bbb531a60d97a41cc94938afe20917b8884770311" data-refresh-url="/_alive" data-session-id="0ff41290a437a165c629e328de364ac83767c48b4f5b425de67051f99eefe5e4">
       <link rel="shared-web-socket-src" href="/assets-cdn/worker/socket-worker-b87581f5816c.js">
 
 
@@ -145,7 +145,7 @@
 
 
 
-    <link rel="canonical" href="https://github.com/PatrickAlphaC/nextjs-nft-marketplace-moralis-fcc/blob/main/pages/index.js" data-turbo-transient>
+    <link rel="canonical" href="https://github.com/PatrickAlphaC/nextjs-nft-marketplace-moralis-fcc/blob/main/components/Header.js" data-turbo-transient>
   <meta name="turbo-body-classes" content="logged-in env-production page-responsive page-blob">
 
 
@@ -237,7 +237,7 @@
           spellcheck="false"
           autocomplete="off"
         >
-        <input type="hidden" value="WXP7Y1ivjBUNAufCENUWeSwXvw2RDocHHNlaHOvVGtn_2Rddsk-ef_aLnAs3v3Y0bCMgd8OBgQq62QQeaQBazg" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
+        <input type="hidden" value="S1wxvp2raImbMhRmCeVu7OImBSrwho4ntRqcKWhk-_Tt9t2Ad0t642C7b68ujw6hohKaUKIJiCoTGsIr6rG74w" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
         <input type="hidden" class="js-site-search-type-field" name="type" >
             <svg xmlns="http://www.w3.org/2000/svg" width="22" height="20" aria-hidden="true" class="mr-1 header-search-key-slash"><path fill="none" stroke="#979A9C" opacity=".4" d="M3.5.5h12c1.7 0 3 1.3 3 3v13c0 1.7-1.3 3-3 3h-12c-1.7 0-3-1.3-3-3v-13c0-1.7 1.3-3 3-3z"></path><path fill="#979A9C" d="M11.8 6L8 15.1h-.9L10.8 6h1z"></path></svg>
 
@@ -436,7 +436,7 @@
 
   <a class="js-selected-navigation-item Header-link mt-md-n3 mb-md-n3 py-2 py-md-3 mr-0 mr-md-3 border-top border-md-top-0 border-white-fade" data-ga-click="Header, click, Nav menu - item:explore" data-turbo="false" data-selected-links="/explore /trending /trending/developers /integrations /integrations/feature/code /integrations/feature/collaborate /integrations/feature/ship showcases showcases_search showcases_landing /explore" href="/explore">Explore</a>
 
-      <a class="js-selected-navigation-item Header-link d-block d-md-none py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-ga-click="Header, click, Nav menu - item:Sponsors" data-hydro-click="{&quot;event_type&quot;:&quot;sponsors.button_click&quot;,&quot;payload&quot;:{&quot;button&quot;:&quot;HEADER_SPONSORS_DASHBOARD&quot;,&quot;sponsorable_login&quot;:&quot;0xJayPi&quot;,&quot;originating_url&quot;:&quot;https://github.com/PatrickAlphaC/nextjs-nft-marketplace-moralis-fcc/blob/main/pages/index.js&quot;,&quot;user_id&quot;:89362795}}" data-hydro-click-hmac="0116b257dbf5ca269c6b407c646d225157b134d76fe92057c7ee1a881a915361" data-turbo="false" data-selected-links=" /sponsors/accounts" href="/sponsors/accounts">Sponsors</a>
+      <a class="js-selected-navigation-item Header-link d-block d-md-none py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-ga-click="Header, click, Nav menu - item:Sponsors" data-hydro-click="{&quot;event_type&quot;:&quot;sponsors.button_click&quot;,&quot;payload&quot;:{&quot;button&quot;:&quot;HEADER_SPONSORS_DASHBOARD&quot;,&quot;sponsorable_login&quot;:&quot;0xJayPi&quot;,&quot;originating_url&quot;:&quot;https://github.com/PatrickAlphaC/nextjs-nft-marketplace-moralis-fcc/blob/main/components/Header.js&quot;,&quot;user_id&quot;:89362795}}" data-hydro-click-hmac="035cfee3f228fe33ef026a5825946aacc93029f6885afc077cdb582850f021aa" data-turbo="false" data-selected-links=" /sponsors/accounts" href="/sponsors/accounts">Sponsors</a>
 
     <a class="Header-link d-block d-md-none mr-0 mr-md-3 py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-turbo="false" href="/settings/profile">Settings</a>
 
@@ -444,7 +444,7 @@
       <img class="avatar avatar-user" loading="lazy" decoding="async" src="https://avatars.githubusercontent.com/u/89362795?s=40&amp;v=4" width="20" height="20" alt="@0xJayPi" />
       0xJayPi
 </a>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-turbo="false" action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="eJKadZt_5TUO4Mg8YCegkv3HHKJrCZkttg0Eu4K09qmlgdrQ-TquTHOYPiFDkCQtb_rX-JhiCRD89rYGjK5JEg" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-turbo="false" action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="rPBzCO8sdubW2f9eSU0IP8l0YNlgPTxStkIcW9gFQGBx4zOtjWk9n6uhCUNq-oyAW0mrg5NWrG_8ua7m1h__2w" />
       <button
         type="submit"
         class="Header-link mr-0 mr-md-3 py-2 py-md-3 border-top border-md-top-0 border-white-fade d-md-none btn-link d-block width-full text-left"
@@ -479,7 +479,7 @@
     <div class="Header-item mr-0 mr-md-3 flex-order-1 flex-md-order-none">
         
 
-<notification-indicator data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6ODkzNjI3OTUiLCJ0IjoxNjY4MDc4ODM0fQ==--270fdd540fd9710ea924775f6048383b0eac130d68493cafcdaf059cbd93fcb1" data-indicator-mode="none" data-tooltip-global="You have unread notifications" data-tooltip-unavailable="Notifications are unavailable at the moment." data-tooltip-none="You have no unread notifications" data-view-component="true" class="js-socket-channel">
+<notification-indicator data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6ODkzNjI3OTUiLCJ0IjoxNjY4MDc4Nzk5fQ==--23a48b66a53965f7768fd945a90b122cf1c736d984ccdb70b552f684ea4985c7" data-indicator-mode="none" data-tooltip-global="You have unread notifications" data-tooltip-unavailable="Notifications are unavailable at the moment." data-tooltip-none="You have no unread notifications" data-view-component="true" class="js-socket-channel">
   <a id="AppHeader-notifications-button" href="/notifications"
     class="Header-link notification-indicator position-relative tooltipped tooltipped-sw"
 
@@ -636,7 +636,7 @@
   <details-dialog class="command-palette-details-dialog d-flex flex-column flex-justify-center height-fit" aria-label="command palette">
     <command-palette
       class="command-palette color-bg-default rounded-3 border color-shadow-small"
-      return-to=/PatrickAlphaC/nextjs-nft-marketplace-moralis-fcc/blob/main/pages/index.js
+      return-to=/PatrickAlphaC/nextjs-nft-marketplace-moralis-fcc/blob/main/components/Header.js
       user-id="89362795"
       activation-hotkey="Mod+k,Mod+Alt+k"
       command-mode-hotkey="Mod+Shift+k"
@@ -1602,7 +1602,7 @@
         data-action="toggle:notifications-list-subscription-form#detailsToggled"
       >
 
-        <summary data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;WATCH_BUTTON&quot;,&quot;repository_id&quot;:482951716,&quot;originating_url&quot;:&quot;https://github.com/PatrickAlphaC/nextjs-nft-marketplace-moralis-fcc/blob/main/pages/index.js&quot;,&quot;user_id&quot;:89362795}}" data-hydro-click-hmac="5f62ca972e13b0ea6e65a68de1bf34710e655b1b6a51db6f44149643e282298b" data-ga-click="Repository, click Watch settings, action:blob#show" aria-label="Notification settings" data-view-component="true" class="btn-sm btn">    <span data-menu-button>
+        <summary data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;WATCH_BUTTON&quot;,&quot;repository_id&quot;:482951716,&quot;originating_url&quot;:&quot;https://github.com/PatrickAlphaC/nextjs-nft-marketplace-moralis-fcc/blob/main/components/Header.js&quot;,&quot;user_id&quot;:89362795}}" data-hydro-click-hmac="82f768702e7ab300a82956413f66f84bb38c159247ac03dbe3fde85f24d8fa73" data-ga-click="Repository, click Watch settings, action:blob#show" aria-label="Notification settings" data-view-component="true" class="btn-sm btn">    <span data-menu-button>
             <span
               hidden
               
@@ -1654,7 +1654,7 @@
             </header>
 
             <div class="SelectMenu-list">
-              <form data-target="notifications-list-subscription-form.form" data-action="submit:notifications-list-subscription-form#submitForm" data-turbo="false" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="ZnnetwMd6s4Jsy5yiGGChlQJeARwWfNvaibKm5N4UkV-dMiy0cGydzA-2_kZ99YlPu1oUV0UZOccNs2FsO4LgA" autocomplete="off" />
+              <form data-target="notifications-list-subscription-form.form" data-action="submit:notifications-list-subscription-form#submitForm" data-turbo="false" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="r3AtC_YFPELreP6MrcqIsIO6bxPWsKs8nahVW2pAhL63fTsOJNlk-9L1Cwc8XNwT6V5_Rvv9PLTruFJFSdbdew" autocomplete="off" />
 
                 <input type="hidden" name="repository_id" value="482951716">
 
@@ -1772,7 +1772,7 @@
           hidden
         >
           <div class="SelectMenu-modal notifications-component-dialog-modal overflow-visible">
-            <form data-target="notifications-list-subscription-form.customform" data-action="submit:notifications-list-subscription-form#submitCustomForm" data-turbo="false" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="2eN8kZXfBT1h020UlytKevW0WVWWuIub3UdvQ-F06YHB7mqURwNdhFhemJ8GvR7Zn1BJALv1HBOrV2hdwuKwRA" autocomplete="off" />
+            <form data-target="notifications-list-subscription-form.customform" data-action="submit:notifications-list-subscription-form#submitCustomForm" data-turbo="false" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="1r_l9981TKSeN0o_l1CwxWZX-xL9GskXUO8J8h235V_OsvPyDekUHae6v7QGxuRmDLPrR9BXXp8m_w7sPiG8mg" autocomplete="off" />
 
               <input type="hidden" name="repository_id" value="482951716">
 
@@ -1923,7 +1923,7 @@
 
   <li>
         <div data-view-component="true" class="BtnGroup">
-        <a icon="repo-forked" href="/PatrickAlphaC/nextjs-nft-marketplace-moralis-fcc/fork" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FORK_BUTTON&quot;,&quot;repository_id&quot;:482951716,&quot;originating_url&quot;:&quot;https://github.com/PatrickAlphaC/nextjs-nft-marketplace-moralis-fcc/blob/main/pages/index.js&quot;,&quot;user_id&quot;:89362795}}" data-hydro-click-hmac="bbd0ee5ef0069d0c25425be0859d916ebf421e8e2c776830f5ba1dcb77fec610" data-ga-click="Repository, show fork modal, action:blob#show; text:Fork" aria-label="Fork your own copy of PatrickAlphaC/nextjs-nft-marketplace-moralis-fcc" data-view-component="true" class="btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-repo-forked mr-2">
+        <a icon="repo-forked" href="/PatrickAlphaC/nextjs-nft-marketplace-moralis-fcc/fork" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FORK_BUTTON&quot;,&quot;repository_id&quot;:482951716,&quot;originating_url&quot;:&quot;https://github.com/PatrickAlphaC/nextjs-nft-marketplace-moralis-fcc/blob/main/components/Header.js&quot;,&quot;user_id&quot;:89362795}}" data-hydro-click-hmac="4fc89bc719a2e15d23f043eb2f7386cf1d761c5cad6d40a62237eb9cfc9bcca0" data-ga-click="Repository, show fork modal, action:blob#show; text:Fork" aria-label="Fork your own copy of PatrickAlphaC/nextjs-nft-marketplace-moralis-fcc" data-view-component="true" class="btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-repo-forked mr-2">
     <path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"></path>
 </svg>Fork
           <span id="repo-network-counter" data-pjax-replace="true" data-turbo-replace="true" title="38" data-view-component="true" class="Counter">38</span>
@@ -1941,13 +1941,13 @@
       
 >
     <div class="SelectMenu-modal">
-        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-aec325">
+        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-c1262a">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
     <path fill-rule="evenodd" d="M3.72 3.72a.75.75 0 011.06 0L8 6.94l3.22-3.22a.75.75 0 111.06 1.06L9.06 8l3.22 3.22a.75.75 0 11-1.06 1.06L8 9.06l-3.22 3.22a.75.75 0 01-1.06-1.06L6.94 8 3.72 4.78a.75.75 0 010-1.06z"></path>
 </svg>
         </button>
       <div
-        id="filter-menu-aec325"
+        id="filter-menu-c1262a"
         class="d-flex flex-column flex-1 overflow-hidden"
 >
         <div
@@ -1989,10 +1989,10 @@
 
   <div data-view-component="true" class="js-toggler-container js-social-container starring-container d-flex">
     <div data-view-component="true" class="starred BtnGroup flex-1">
-      <form class="js-social-form BtnGroup-parent flex-auto js-deferred-toggler-target" data-turbo="false" action="/PatrickAlphaC/nextjs-nft-marketplace-moralis-fcc/unstar" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="UIZV05K8D9wo0WZdTKLpqNnhsBOjLFMjg99z9W4rgz_vdsnnqvdQPpq2CGtwffs_TVlxzvpI8O8lG3q3YqFNbA" autocomplete="off" />
-          <input type="hidden" value="Lc-ervvwY3NnF2RaXCPJHe8v5O6O45yfOuZYQsYUQlmSPwKaw7s8kdVwCmxg_NuKe5clM9eHP1OcIlEAyp6MCg" data-csrf="true" class="js-confirm-csrf-token" />
+      <form class="js-social-form BtnGroup-parent flex-auto js-deferred-toggler-target" data-turbo="false" action="/PatrickAlphaC/nextjs-nft-marketplace-moralis-fcc/unstar" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="gPT6TShve1EITG9rw3HL-EsUUYcKMuKXFK4BtwOs8F8_BGZ5ECQks7orAV3_rtlv36yQWlNWQVuyagj1DyY-DA" autocomplete="off" />
+          <input type="hidden" value="45QOB3EKzKsq4jvdhaAnuSNQ0mmabHUVDTnokqAx0jlcZJIzSUGTSZiFVeu5fzUut-gTtMMI1tmr_eHQrLscag" data-csrf="true" class="js-confirm-csrf-token" />
         <input type="hidden" name="context" value="repository">
-          <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:482951716,&quot;originating_url&quot;:&quot;https://github.com/PatrickAlphaC/nextjs-nft-marketplace-moralis-fcc/blob/main/pages/index.js&quot;,&quot;user_id&quot;:89362795}}" data-hydro-click-hmac="3eb765ea27647df1b48533bd2f0c977e242fc0709d3f444eca24c5236df6078b" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar" aria-label="Unstar this repository (36)" type="submit" data-view-component="true" class="rounded-left-2 btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star-fill starred-button-icon d-inline-block mr-2">
+          <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:482951716,&quot;originating_url&quot;:&quot;https://github.com/PatrickAlphaC/nextjs-nft-marketplace-moralis-fcc/blob/main/components/Header.js&quot;,&quot;user_id&quot;:89362795}}" data-hydro-click-hmac="c969fa2a2b5e6548bc14bfc29a1ff91deb286cc5eddd686df3f224136a948113" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar" aria-label="Unstar this repository (36)" type="submit" data-view-component="true" class="rounded-left-2 btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star-fill starred-button-icon d-inline-block mr-2">
     <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25z"></path>
 </svg><span data-view-component="true" class="d-inline">
             Starred
@@ -2010,13 +2010,13 @@
       
 >
     <div class="SelectMenu-modal">
-        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-3913c3">
+        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-ee9c67">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
     <path fill-rule="evenodd" d="M3.72 3.72a.75.75 0 011.06 0L8 6.94l3.22-3.22a.75.75 0 111.06 1.06L9.06 8l3.22 3.22a.75.75 0 11-1.06 1.06L8 9.06l-3.22 3.22a.75.75 0 01-1.06-1.06L6.94 8 3.72 4.78a.75.75 0 010-1.06z"></path>
 </svg>
         </button>
       <div
-        id="filter-menu-3913c3"
+        id="filter-menu-ee9c67"
         class="d-flex flex-column flex-1 overflow-hidden"
 >
         <div
@@ -2037,9 +2037,9 @@
 </details>
 </div>
     <div data-view-component="true" class="unstarred BtnGroup flex-1">
-      <form class="js-social-form BtnGroup-parent flex-auto" data-turbo="false" action="/PatrickAlphaC/nextjs-nft-marketplace-moralis-fcc/star" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="mi2Gr9tp2LxtQ8E4ct-MrlKCLZt-j40k1TQRRWGx5k34khAwk-3nt2rg3raprhp2-QhFKXigYz9-jPbXkw9RvA" autocomplete="off" />
+      <form class="js-social-form BtnGroup-parent flex-auto" data-turbo="false" action="/PatrickAlphaC/nextjs-nft-marketplace-moralis-fcc/star" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="ED6Zl69ir7-sm_HGNp68LaN9SEVaa2zKKGKaO4U8CHFygQ8I5-aQtKs47kjt7yr1CPcg91xEgtGD2n2pd4K_gA" autocomplete="off" />
         <input type="hidden" name="context" value="repository">
-          <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:482951716,&quot;originating_url&quot;:&quot;https://github.com/PatrickAlphaC/nextjs-nft-marketplace-moralis-fcc/blob/main/pages/index.js&quot;,&quot;user_id&quot;:89362795}}" data-hydro-click-hmac="2a0415edc4f464d9106a6c6615c077886ce7d9711d4560589743e0bc222ba474" data-ga-click="Repository, click star button, action:blob#show; text:Star" aria-label="Star this repository (36)" type="submit" data-view-component="true" class="js-toggler-target rounded-left-2 btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star d-inline-block mr-2">
+          <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:482951716,&quot;originating_url&quot;:&quot;https://github.com/PatrickAlphaC/nextjs-nft-marketplace-moralis-fcc/blob/main/components/Header.js&quot;,&quot;user_id&quot;:89362795}}" data-hydro-click-hmac="596a76a6755d338d750bde6966ae0164dbba35acf0593141bdfcb23559f7c87c" data-ga-click="Repository, click star button, action:blob#show; text:Star" aria-label="Star this repository (36)" type="submit" data-view-component="true" class="js-toggler-target rounded-left-2 btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star d-inline-block mr-2">
     <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"></path>
 </svg><span data-view-component="true" class="d-inline">
             Star
@@ -2057,13 +2057,13 @@
       
 >
     <div class="SelectMenu-modal">
-        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-3913c3">
+        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-ee9c67">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
     <path fill-rule="evenodd" d="M3.72 3.72a.75.75 0 011.06 0L8 6.94l3.22-3.22a.75.75 0 111.06 1.06L9.06 8l3.22 3.22a.75.75 0 11-1.06 1.06L8 9.06l-3.22 3.22a.75.75 0 01-1.06-1.06L6.94 8 3.72 4.78a.75.75 0 010-1.06z"></path>
 </svg>
         </button>
       <div
-        id="filter-menu-3913c3"
+        id="filter-menu-ee9c67"
         class="d-flex flex-column flex-1 overflow-hidden"
 >
         <div
@@ -2251,7 +2251,7 @@
 
 
     
-<a class="d-none js-permalink-shortcut" data-hotkey="y" href="/PatrickAlphaC/nextjs-nft-marketplace-moralis-fcc/blob/938aae2e7b62a0502bc345df26df77d2a8615177/pages/index.js">Permalink</a>
+<a class="d-none js-permalink-shortcut" data-hotkey="y" href="/PatrickAlphaC/nextjs-nft-marketplace-moralis-fcc/blob/938aae2e7b62a0502bc345df26df77d2a8615177/components/Header.js">Permalink</a>
 
 <div class="d-flex flex-items-start flex-shrink-0 pb-3 flex-wrap flex-md-nowrap flex-justify-between flex-md-justify-start">
   
@@ -2259,7 +2259,7 @@
   <details
     class="js-branch-select-menu details-reset details-overlay mr-0 mb-0 "
     id="branch-select-menu"
-    data-hydro-click-payload="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;REFS_SELECTOR_MENU&quot;,&quot;repository_id&quot;:482951716,&quot;originating_url&quot;:&quot;https://github.com/PatrickAlphaC/nextjs-nft-marketplace-moralis-fcc/blob/main/pages/index.js&quot;,&quot;user_id&quot;:89362795}}" data-hydro-click-hmac="72c7df4158fc810549bb95af781a1815abff6633eb684f4425065afab6c54e53">
+    data-hydro-click-payload="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;REFS_SELECTOR_MENU&quot;,&quot;repository_id&quot;:482951716,&quot;originating_url&quot;:&quot;https://github.com/PatrickAlphaC/nextjs-nft-marketplace-moralis-fcc/blob/main/components/Header.js&quot;,&quot;user_id&quot;:89362795}}" data-hydro-click-hmac="c9c792ec660b93258f43035f65e6c0f51ed235faf1623a8e21ab48312216b041">
     <summary class="btn css-truncate"
             data-hotkey="w"
             title="Switch branches or tags">
@@ -2340,7 +2340,7 @@
               
 
 <template data-target="ref-selector.itemTemplate">
-  <a href="https://github.com/PatrickAlphaC/nextjs-nft-marketplace-moralis-fcc/blob/{{ urlEncodedRefName }}/pages/index.js" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}" >
+  <a href="https://github.com/PatrickAlphaC/nextjs-nft-marketplace-moralis-fcc/blob/{{ urlEncodedRefName }}/components/Header.js" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}" >
     <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
     <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
 </svg>
@@ -2382,7 +2382,7 @@
               
 
 <template data-target="ref-selector.itemTemplate">
-  <a href="https://github.com/PatrickAlphaC/nextjs-nft-marketplace-moralis-fcc/blob/{{ urlEncodedRefName }}/pages/index.js" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}" >
+  <a href="https://github.com/PatrickAlphaC/nextjs-nft-marketplace-moralis-fcc/blob/{{ urlEncodedRefName }}/components/Header.js" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}" >
     <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
     <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
 </svg>
@@ -2443,9 +2443,9 @@
 
 
   <h2 id="blob-path" class="breadcrumb flex-auto flex-self-center min-width-0 text-normal mx-2 width-full width-md-auto flex-order-1 flex-md-order-none mt-3 mt-md-0">
-    <span class="js-repo-root text-bold"><span class="js-path-segment d-inline-block wb-break-all"><a data-turbo-frame="repo-content-turbo-frame" href="/PatrickAlphaC/nextjs-nft-marketplace-moralis-fcc"><span>nextjs-nft-marketplace-moralis-fcc</span></a></span></span><span class="separator">/</span><span class="js-path-segment d-inline-block wb-break-all"><a data-turbo-frame="repo-content-turbo-frame" href="/PatrickAlphaC/nextjs-nft-marketplace-moralis-fcc/tree/main/pages"><span>pages</span></a></span><span class="separator">/</span><strong class="final-path">index.js</strong>
+    <span class="js-repo-root text-bold"><span class="js-path-segment d-inline-block wb-break-all"><a data-turbo-frame="repo-content-turbo-frame" href="/PatrickAlphaC/nextjs-nft-marketplace-moralis-fcc"><span>nextjs-nft-marketplace-moralis-fcc</span></a></span></span><span class="separator">/</span><span class="js-path-segment d-inline-block wb-break-all"><a data-turbo-frame="repo-content-turbo-frame" href="/PatrickAlphaC/nextjs-nft-marketplace-moralis-fcc/tree/main/components"><span>components</span></a></span><span class="separator">/</span><strong class="final-path">Header.js</strong>
       <span class="separator">/</span><details class="details-reset details-overlay d-inline" id="jumpto-symbol-select-menu">
-    <summary aria-haspopup="true" data-hotkey="r" data-hydro-click="{&quot;event_type&quot;:&quot;code_navigation.click_on_blob_definitions&quot;,&quot;payload&quot;:{&quot;action&quot;:&quot;click_on_blob_definitions&quot;,&quot;repository_id&quot;:482951716,&quot;ref&quot;:&quot;main&quot;,&quot;language&quot;:&quot;JavaScript&quot;,&quot;backend&quot;:&quot;ALEPH_FUZZY&quot;,&quot;code_nav_context&quot;:&quot;BLOB_VIEW&quot;,&quot;retry_backend&quot;:&quot;&quot;,&quot;cross_repo_results_included&quot;:&quot;CROSS_REPO_UNKNOWN&quot;,&quot;in_repo_result_count&quot;:0,&quot;cross_repo_result_count&quot;:0,&quot;originating_url&quot;:&quot;https://github.com/PatrickAlphaC/nextjs-nft-marketplace-moralis-fcc/blob/main/pages/index.js&quot;,&quot;user_id&quot;:89362795}}" data-hydro-click-hmac="73201cf4d0ec76871bb13bec3afe85cb2cef928bbc5557c562a4b9bb5ec6bc71" data-view-component="true" class="Link--secondary css-truncate btn-link">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-code">
+    <summary aria-haspopup="true" data-hotkey="r" data-hydro-click="{&quot;event_type&quot;:&quot;code_navigation.click_on_blob_definitions&quot;,&quot;payload&quot;:{&quot;action&quot;:&quot;click_on_blob_definitions&quot;,&quot;repository_id&quot;:482951716,&quot;ref&quot;:&quot;main&quot;,&quot;language&quot;:&quot;JavaScript&quot;,&quot;backend&quot;:&quot;ALEPH_FUZZY&quot;,&quot;code_nav_context&quot;:&quot;BLOB_VIEW&quot;,&quot;retry_backend&quot;:&quot;&quot;,&quot;cross_repo_results_included&quot;:&quot;CROSS_REPO_UNKNOWN&quot;,&quot;in_repo_result_count&quot;:0,&quot;cross_repo_result_count&quot;:0,&quot;originating_url&quot;:&quot;https://github.com/PatrickAlphaC/nextjs-nft-marketplace-moralis-fcc/blob/main/components/Header.js&quot;,&quot;user_id&quot;:89362795}}" data-hydro-click-hmac="a2ba8cd6b6ef3bbaa48dd136c574277b19be000809b84cbe39c01bf964e5949e" data-view-component="true" class="Link--secondary css-truncate btn-link">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-code">
     <path fill-rule="evenodd" d="M4.72 3.22a.75.75 0 011.06 1.06L2.06 8l3.72 3.72a.75.75 0 11-1.06 1.06L.47 8.53a.75.75 0 010-1.06l4.25-4.25zm6.56 0a.75.75 0 10-1.06 1.06L13.94 8l-3.72 3.72a.75.75 0 101.06 1.06l4.25-4.25a.75.75 0 000-1.06l-4.25-4.25z"></path>
 </svg>
     <span data-menu-button>Jump to</span>
@@ -2473,11 +2473,11 @@
         </div>
       <div class="SelectMenu-list">
         <div data-filterable-for="jumpto-symbols-filter-field" data-filterable-type="substring">
-            <a class="SelectMenu-item d-flex flex-justify-between css-truncate" role="menuitemradio" aria-checked="false" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;code_navigation.navigate_to_blob_definition&quot;,&quot;payload&quot;:{&quot;action&quot;:&quot;navigate_to_blob_definition&quot;,&quot;repository_id&quot;:482951716,&quot;ref&quot;:&quot;main&quot;,&quot;language&quot;:&quot;JavaScript&quot;,&quot;backend&quot;:&quot;ALEPH_FUZZY&quot;,&quot;code_nav_context&quot;:&quot;BLOB_VIEW&quot;,&quot;retry_backend&quot;:&quot;&quot;,&quot;cross_repo_results_included&quot;:&quot;CROSS_REPO_UNKNOWN&quot;,&quot;in_repo_result_count&quot;:0,&quot;cross_repo_result_count&quot;:0,&quot;originating_url&quot;:&quot;https://github.com/PatrickAlphaC/nextjs-nft-marketplace-moralis-fcc/blob/main/pages/index.js&quot;,&quot;user_id&quot;:89362795}}" data-hydro-click-hmac="74a3c6548760a1d51d5a8485519525c97f3debf96103ef75c04289cb7ef861cb" href="/PatrickAlphaC/nextjs-nft-marketplace-moralis-fcc/blob/main/pages/index.js#L6">
+            <a class="SelectMenu-item d-flex flex-justify-between css-truncate" role="menuitemradio" aria-checked="false" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;code_navigation.navigate_to_blob_definition&quot;,&quot;payload&quot;:{&quot;action&quot;:&quot;navigate_to_blob_definition&quot;,&quot;repository_id&quot;:482951716,&quot;ref&quot;:&quot;main&quot;,&quot;language&quot;:&quot;JavaScript&quot;,&quot;backend&quot;:&quot;ALEPH_FUZZY&quot;,&quot;code_nav_context&quot;:&quot;BLOB_VIEW&quot;,&quot;retry_backend&quot;:&quot;&quot;,&quot;cross_repo_results_included&quot;:&quot;CROSS_REPO_UNKNOWN&quot;,&quot;in_repo_result_count&quot;:0,&quot;cross_repo_result_count&quot;:0,&quot;originating_url&quot;:&quot;https://github.com/PatrickAlphaC/nextjs-nft-marketplace-moralis-fcc/blob/main/components/Header.js&quot;,&quot;user_id&quot;:89362795}}" data-hydro-click-hmac="557ee300e92b6d26b5f97e0a574662e5ff44df7fbc9aefb577051b2ec5ff1520" href="/PatrickAlphaC/nextjs-nft-marketplace-moralis-fcc/blob/main/components/Header.js#L4">
               <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
     <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
 </svg>
-              <span class="flex-auto css-truncate-target" data-menu-button-text>Home</span>
+              <span class="flex-auto css-truncate-target" data-menu-button-text>Header</span>
               <span class="flex-auto d-flex flex-justify-end">Function</span>
 </a>        </div>
       </div>
@@ -2501,7 +2501,7 @@
 </summary>
   <div data-view-component="true">      <ul class="dropdown-menu dropdown-menu-sw">
         <li class="d-block d-md-none">
-          <a class="dropdown-item d-flex flex-items-baseline" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FIND_FILE_BUTTON&quot;,&quot;repository_id&quot;:482951716,&quot;originating_url&quot;:&quot;https://github.com/PatrickAlphaC/nextjs-nft-marketplace-moralis-fcc/blob/main/pages/index.js&quot;,&quot;user_id&quot;:89362795}}" data-hydro-click-hmac="c586ef0ca43fd03374db6378b64ad7d44d1e7bd5a32a0962f0a68eb0cbf6ac4d" data-ga-click="Repository, find file, location:repo overview" data-hotkey="t" href="/PatrickAlphaC/nextjs-nft-marketplace-moralis-fcc/find/main">
+          <a class="dropdown-item d-flex flex-items-baseline" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FIND_FILE_BUTTON&quot;,&quot;repository_id&quot;:482951716,&quot;originating_url&quot;:&quot;https://github.com/PatrickAlphaC/nextjs-nft-marketplace-moralis-fcc/blob/main/components/Header.js&quot;,&quot;user_id&quot;:89362795}}" data-hydro-click-hmac="51db88a10651448c5afc99b8c4fdd8c86fec391db3525d3df9f1f86438f14aa3" data-ga-click="Repository, find file, location:repo overview" data-hotkey="t" href="/PatrickAlphaC/nextjs-nft-marketplace-moralis-fcc/find/main">
             <span class="flex-auto">Go to file</span>
             <span class="text-small color-fg-muted" aria-hidden="true">T</span>
 </a>        </li>
@@ -2519,13 +2519,13 @@
 </button>        </li>
         <li class="dropdown-divider" role="none"></li>
         <li>
-          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy path" value="pages/index.js" data-view-component="true" class="dropdown-item cursor-pointer">
+          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy path" value="components/Header.js" data-view-component="true" class="dropdown-item cursor-pointer">
     
             Copy path
 
 </clipboard-copy>        </li>
         <li>
-          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy permalink" value="https://github.com/PatrickAlphaC/nextjs-nft-marketplace-moralis-fcc/blob/938aae2e7b62a0502bc345df26df77d2a8615177/pages/index.js" data-view-component="true" class="dropdown-item cursor-pointer">
+          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy permalink" value="https://github.com/PatrickAlphaC/nextjs-nft-marketplace-moralis-fcc/blob/938aae2e7b62a0502bc345df26df77d2a8615177/components/Header.js" data-view-component="true" class="dropdown-item cursor-pointer">
     
             <span class="d-flex flex-items-baseline">
               <span class="flex-auto">Copy permalink</span>
@@ -2557,88 +2557,17 @@
     <include-fragment src="/PatrickAlphaC/nextjs-nft-marketplace-moralis-fcc/spoofed_commit_check/938aae2e7b62a0502bc345df26df77d2a8615177" data-test-selector="spoofed-commit-check"></include-fragment>
 
     <div class="Box d-flex flex-column flex-shrink-0 mb-3">
-  
-  <div class="Box-header Details js-details-container">
-      <div class="d-flex flex-items-center">
-        <span class="flex-shrink-0 ml-n1 mr-n1 mt-n1 mb-n1">
-          <a rel="contributor" data-hovercard-type="user" data-hovercard-url="/users/wildanvin/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/wildanvin"><img class="avatar avatar-user" src="https://avatars.githubusercontent.com/u/48974550?s=48&amp;v=4" width="24" height="24" alt="@wildanvin" /></a>
-        </span>
-        <div class="flex-1 d-flex flex-items-center ml-3 min-width-0">
-          <div class="css-truncate css-truncate-overflow">
-            <a class="text-bold Link--primary" rel="contributor" data-hovercard-type="user" data-hovercard-url="/users/wildanvin/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/wildanvin">wildanvin</a>
+  <include-fragment src="/PatrickAlphaC/nextjs-nft-marketplace-moralis-fcc/contributors/main/components/Header.js" class="commit-loader">
+    <div class="Box-header d-flex flex-items-center">
+      <div class="Skeleton avatar avatar-user flex-shrink-0 ml-n1 mr-n1 mt-n1 mb-n1" style="width:24px;height:24px;"></div>
+      <div class="Skeleton Skeleton--text col-5 ml-2">&nbsp;</div>
+    </div>
 
-              <span class="markdown-title">
-                <a data-pjax="true" title="Remove wrapping div" class="Link--secondary" href="/PatrickAlphaC/nextjs-nft-marketplace-moralis-fcc/commit/3c3b8c6b0f03c462e656d294fb95d533f9a83217">Remove wrapping div</a>
-              </span>
-          </div>
-
-
-          <span class="ml-2">
-            <include-fragment accept="text/fragment+html" src="/PatrickAlphaC/nextjs-nft-marketplace-moralis-fcc/commit/3c3b8c6b0f03c462e656d294fb95d533f9a83217/rollup?direction=e" class="d-inline"></include-fragment>
-          </span>
-        </div>
-        <div class="ml-3 d-flex flex-shrink-0 flex-items-center flex-justify-end color-fg-muted no-wrap">
-          <span class="d-none d-md-inline">
-            <span>Latest commit</span>
-            <a class="text-small text-mono Link--secondary" href="/PatrickAlphaC/nextjs-nft-marketplace-moralis-fcc/commit/3c3b8c6b0f03c462e656d294fb95d533f9a83217" data-pjax>3c3b8c6</a>
-            <span itemprop="dateModified"><relative-time datetime="2022-07-23T03:01:23Z" class="no-wrap">Jul 23, 2022</relative-time></span>
-          </span>
-
-          <a data-pjax href="/PatrickAlphaC/nextjs-nft-marketplace-moralis-fcc/commits/main/pages/index.js" class="ml-3 no-wrap Link--primary no-underline">
-            <svg text="gray" aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-history">
-    <path fill-rule="evenodd" d="M1.643 3.143L.427 1.927A.25.25 0 000 2.104V5.75c0 .138.112.25.25.25h3.646a.25.25 0 00.177-.427L2.715 4.215a6.5 6.5 0 11-1.18 4.458.75.75 0 10-1.493.154 8.001 8.001 0 101.6-5.684zM7.75 4a.75.75 0 01.75.75v2.992l2.028.812a.75.75 0 01-.557 1.392l-2.5-1A.75.75 0 017 8.25v-3.5A.75.75 0 017.75 4z"></path>
-</svg>
-            <span class="d-none d-sm-inline">
-              <strong>History</strong>
-            </span>
-          </a>
-        </div>
-      </div>
-
-  </div>
-
-  <div class="Box-body d-flex flex-items-center flex-auto border-bottom-0 flex-wrap" >
-    <details class="details-reset details-overlay details-overlay-dark lh-default color-fg-default float-left mr-3" id="blob_contributors_box">
-      <summary class="Link--primary">
-        <svg text="gray" aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-people">
-    <path fill-rule="evenodd" d="M5.5 3.5a2 2 0 100 4 2 2 0 000-4zM2 5.5a3.5 3.5 0 115.898 2.549 5.507 5.507 0 013.034 4.084.75.75 0 11-1.482.235 4.001 4.001 0 00-7.9 0 .75.75 0 01-1.482-.236A5.507 5.507 0 013.102 8.05 3.49 3.49 0 012 5.5zM11 4a.75.75 0 100 1.5 1.5 1.5 0 01.666 2.844.75.75 0 00-.416.672v.352a.75.75 0 00.574.73c1.2.289 2.162 1.2 2.522 2.372a.75.75 0 101.434-.44 5.01 5.01 0 00-2.56-3.012A3 3 0 0011 4z"></path>
-</svg>
-        <strong>2</strong>
-        
-        contributors
-      </summary>
-      <details-dialog
-        class="Box Box--overlay d-flex flex-column anim-fade-in fast"
-        aria-label="Users who have contributed to this file"
-        src="/PatrickAlphaC/nextjs-nft-marketplace-moralis-fcc/contributors-list/main/pages/index.js" preload>
-        <div class="Box-header">
-          <button class="Box-btn-octicon btn-octicon float-right" type="button" aria-label="Close dialog" data-close-dialog>
-            <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
-    <path fill-rule="evenodd" d="M3.72 3.72a.75.75 0 011.06 0L8 6.94l3.22-3.22a.75.75 0 111.06 1.06L9.06 8l3.22 3.22a.75.75 0 11-1.06 1.06L8 9.06l-3.22 3.22a.75.75 0 01-1.06-1.06L6.94 8 3.72 4.78a.75.75 0 010-1.06z"></path>
-</svg>
-          </button>
-          <h3 class="Box-title">
-            Users who have contributed to this file
-          </h3>
-        </div>
-        <include-fragment>
-          <svg style="box-sizing: content-box; color: var(--color-icon-primary);" width="32" height="32" viewBox="0 0 16 16" fill="none" data-view-component="true" class="my-3 mx-auto d-block anim-rotate">
-  <circle cx="8" cy="8" r="7" stroke="currentColor" stroke-opacity="0.25" stroke-width="2" vector-effect="non-scaling-stroke" />
-  <path d="M15 8a7.002 7.002 0 00-7-7" stroke="currentColor" stroke-width="2" stroke-linecap="round" vector-effect="non-scaling-stroke" />
-</svg>
-        </include-fragment>
-      </details-dialog>
-    </details>
-      <span class="">
-    <a class="avatar-link" data-hovercard-type="user" data-hovercard-url="/users/PatrickAlphaC/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/PatrickAlphaC/nextjs-nft-marketplace-moralis-fcc/commits/main/pages/index.js?author=PatrickAlphaC">
-      <img class="avatar mr-2 avatar-user" src="https://avatars.githubusercontent.com/u/54278053?s=48&amp;v=4" width="24" height="24" alt="@PatrickAlphaC" /> 
-</a>    <a class="avatar-link" data-hovercard-type="user" data-hovercard-url="/users/wildanvin/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/PatrickAlphaC/nextjs-nft-marketplace-moralis-fcc/commits/main/pages/index.js?author=wildanvin">
-      <img class="avatar mr-2 avatar-user" src="https://avatars.githubusercontent.com/u/48974550?s=48&amp;v=4" width="24" height="24" alt="@wildanvin" /> 
-</a>
-</span>
-
-  </div>
-</div>
+    <div class="Box-body d-flex flex-items-center" >
+      <div class="Skeleton Skeleton--text col-1">&nbsp;</div>
+      <span class="color-fg-danger h6 loader-error">Cannot retrieve contributors at this time</span>
+    </div>
+</include-fragment></div>
 
 
 
@@ -2662,23 +2591,23 @@
 
   <div class="text-mono f6 flex-auto pr-3 flex-order-2 flex-md-order-1">
 
-      46 lines (44 sloc)
+      19 lines (18 sloc)
       <span class="file-info-divider"></span>
-    1.74 KB
+    665 Bytes
   </div>
 
   <div class="d-flex py-1 py-md-0 flex-auto flex-order-1 flex-md-order-2 flex-sm-grow-0 flex-justify-between hide-sm hide-md">
       
 
     <div class="BtnGroup">
-        <a data-permalink-href="/PatrickAlphaC/nextjs-nft-marketplace-moralis-fcc/raw/938aae2e7b62a0502bc345df26df77d2a8615177/pages/index.js" href="/PatrickAlphaC/nextjs-nft-marketplace-moralis-fcc/raw/main/pages/index.js" id="raw-url" data-view-component="true" class="js-permalink-replaceable-link btn-sm btn BtnGroup-item">    Raw
-</a>          <a data-permalink-href="/PatrickAlphaC/nextjs-nft-marketplace-moralis-fcc/blame/938aae2e7b62a0502bc345df26df77d2a8615177/pages/index.js" href="/PatrickAlphaC/nextjs-nft-marketplace-moralis-fcc/blame/main/pages/index.js" data-hotkey="b" data-view-component="true" class="js-update-url-with-hash js-permalink-replaceable-link btn-sm btn BtnGroup-item">    Blame
+        <a data-permalink-href="/PatrickAlphaC/nextjs-nft-marketplace-moralis-fcc/raw/938aae2e7b62a0502bc345df26df77d2a8615177/components/Header.js" href="/PatrickAlphaC/nextjs-nft-marketplace-moralis-fcc/raw/main/components/Header.js" id="raw-url" data-view-component="true" class="js-permalink-replaceable-link btn-sm btn BtnGroup-item">    Raw
+</a>          <a data-permalink-href="/PatrickAlphaC/nextjs-nft-marketplace-moralis-fcc/blame/938aae2e7b62a0502bc345df26df77d2a8615177/components/Header.js" href="/PatrickAlphaC/nextjs-nft-marketplace-moralis-fcc/blame/main/components/Header.js" data-hotkey="b" data-view-component="true" class="js-update-url-with-hash js-permalink-replaceable-link btn-sm btn BtnGroup-item">    Blame
 </a>    </div>
 
     <div class="d-flex">
         
 <div class="ml-1" data-test-selector="edit-dropdown-menu-component">
-  <form class="BtnGroup-parent js-update-url-with-hash " data-turbo="false" action="/PatrickAlphaC/nextjs-nft-marketplace-moralis-fcc/edit/main/pages/index.js" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="P0_NrvSkg31UfM8AqqxDzGBuyeilnt_mF_0hHlVbLDO3p52nGhc1SI5rWFq1RDO_m4xny-MmpXoxjb_zJGkUvQ" autocomplete="off" />
+  <form class="BtnGroup-parent js-update-url-with-hash " data-turbo="false" action="/PatrickAlphaC/nextjs-nft-marketplace-moralis-fcc/edit/main/components/Header.js" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="AZFJEQ6GbnaCOaKRpWvWEg9O_Q_Eel0AoVrncMw6v-YaYxM1x_24zjkBFJXHOR7i-l9q_MzqaMGoCKtWv_g8vw" autocomplete="off" />
       <button title="Fork this repository and edit the file" data-hotkey="e" data-disable-with="" data-test-selector="edit-icon-button" type="submit" data-view-component="true" class="btn-sm BtnGroup-item btn">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-pencil">
     <path fill-rule="evenodd" d="M11.013 1.427a1.75 1.75 0 012.474 0l1.086 1.086a1.75 1.75 0 010 2.474l-8.61 8.61c-.21.21-.47.364-.756.445l-3.251.93a.75.75 0 01-.927-.928l.929-3.25a1.75 1.75 0 01.445-.758l8.61-8.61zm1.414 1.06a.25.25 0 00-.354 0L10.811 3.75l1.439 1.44 1.263-1.263a.25.25 0 000-.354l-1.086-1.086zM11.189 6.25L9.75 4.81l-6.286 6.287a.25.25 0 00-.064.108l-.558 1.953 1.953-.558a.249.249 0 00.108-.064l6.286-6.286z"></path>
 </svg>
@@ -2688,7 +2617,7 @@
 </summary>    <div class="SelectMenu right-0">
       <div class="SelectMenu-modal width-full">
         <div class="SelectMenu-list SelectMenu-list--borderless py-2">
-          <form class="SelectMenu-item js-update-url-with-hash " data-turbo="false" action="/PatrickAlphaC/nextjs-nft-marketplace-moralis-fcc/edit/main/pages/index.js" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="0aqZQDDxGYngASzwEmSQTFRUjr-rWMbQFEUCunie-UJZQslJ3kKvvDoWu6oNjOA_r7YgnO3gvEwyNZxXCazBzA" autocomplete="off" />
+          <form class="SelectMenu-item js-update-url-with-hash " data-turbo="false" action="/PatrickAlphaC/nextjs-nft-marketplace-moralis-fcc/edit/main/components/Header.js" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="iMvGnNWT3HEkRhuEptRIpIcgdfL2eBqgE8tO8kt-QOqTOZy4HOgKyZ9-rYDEhoBUcjHiAf7oL2EamQLUOLzDsw" autocomplete="off" />
               <button title="Fork this repository and edit the file" data-test-selector="edit-text-button" type="submit" data-view-component="true" class="btn-invisible btn width-full d-flex flex-justify-between color-fg-default text-normal p-0">    <div class="mr-5">Edit this file</div>
               <div class="color-fg-muted">E</div>
 </button></form>
@@ -2707,10 +2636,10 @@
 
         
 <div data-test-selector="remote-clipboard-copy">
-  <remote-clipboard-copy class="d-inline-block btn-octicon" style="height: 26px" data-src="/PatrickAlphaC/nextjs-nft-marketplace-moralis-fcc/raw/938aae2e7b62a0502bc345df26df77d2a8615177/pages/index.js" data-action="click:remote-clipboard-copy#remoteCopy">
+  <remote-clipboard-copy class="d-inline-block btn-octicon" style="height: 26px" data-src="/PatrickAlphaC/nextjs-nft-marketplace-moralis-fcc/raw/938aae2e7b62a0502bc345df26df77d2a8615177/components/Header.js" data-action="click:remote-clipboard-copy#remoteCopy">
   
 
-  <span data-target="remote-clipboard-copy.idle">      <span class="tooltipped tooltipped-nw cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:482951716,&quot;originating_url&quot;:&quot;https://github.com/PatrickAlphaC/nextjs-nft-marketplace-moralis-fcc/blob/main/pages/index.js&quot;,&quot;user_id&quot;:89362795}}" data-hydro-click-hmac="a6f24dc321bebe6a18424bb66c33e3b3c69f4595f52f38445b40c354ffe10f05" aria-label="Copy raw contents">
+  <span data-target="remote-clipboard-copy.idle">      <span class="tooltipped tooltipped-nw cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:482951716,&quot;originating_url&quot;:&quot;https://github.com/PatrickAlphaC/nextjs-nft-marketplace-moralis-fcc/blob/main/components/Header.js&quot;,&quot;user_id&quot;:89362795}}" data-hydro-click-hmac="8f78766a25fa893f52a5bac7f63d4bca1574f3dd089f2e45760777c38b56d9b2" aria-label="Copy raw contents">
         <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy">
     <path fill-rule="evenodd" d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 010 1.5h-1.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-1.5a.75.75 0 011.5 0v1.5A1.75 1.75 0 019.25 16h-7.5A1.75 1.75 0 010 14.25v-7.5z"></path><path fill-rule="evenodd" d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0114.25 11h-7.5A1.75 1.75 0 015 9.25v-7.5zm1.75-.25a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25h-7.5z"></path>
 </svg>
@@ -2735,7 +2664,7 @@
 </remote-clipboard-copy></div>
 
 
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" data-turbo="false" action="/PatrickAlphaC/nextjs-nft-marketplace-moralis-fcc/delete/main/pages/index.js" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="6hchBEfkqy36rBzsRe-6V-SUc5-VxmKQYqnwkdPz86WALqBxnpsSXKv3fW0lNUUKODSS55AIrtL_JGQB-QWvIQ" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" data-turbo="false" action="/PatrickAlphaC/nextjs-nft-marketplace-moralis-fcc/delete/main/components/Header.js" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="q6enT_NYEGdf5syco-ZIEE8A7tDwOysE1FtF9fCQ_3DvurnTFAApcd7oZooAevZB7Fpb7SsD8GhHTkbVxeqhqQ" />
             <button class="btn-octicon btn-octicon-danger tooltipped tooltipped-nw" type="submit"
               aria-label="Fork this repository and delete the file" data-disable-with>
               <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-trash">
@@ -2768,15 +2697,15 @@
                 </a>
             </li>
           <li>
-            <a class="dropdown-item" href="/PatrickAlphaC/nextjs-nft-marketplace-moralis-fcc/raw/main/pages/index.js">
+            <a class="dropdown-item" href="/PatrickAlphaC/nextjs-nft-marketplace-moralis-fcc/raw/main/components/Header.js">
               View raw
             </a>
           </li>
             <li>
-              <remote-clipboard-copy class="dropdown-item" data-src="/PatrickAlphaC/nextjs-nft-marketplace-moralis-fcc/raw/main/pages/index.js" data-action="click:remote-clipboard-copy#remoteCopy">
+              <remote-clipboard-copy class="dropdown-item" data-src="/PatrickAlphaC/nextjs-nft-marketplace-moralis-fcc/raw/main/components/Header.js" data-action="click:remote-clipboard-copy#remoteCopy">
   
 
-  <span data-target="remote-clipboard-copy.idle">                  <span class="cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:482951716,&quot;originating_url&quot;:&quot;https://github.com/PatrickAlphaC/nextjs-nft-marketplace-moralis-fcc/blob/main/pages/index.js&quot;,&quot;user_id&quot;:89362795}}" data-hydro-click-hmac="a6f24dc321bebe6a18424bb66c33e3b3c69f4595f52f38445b40c354ffe10f05">
+  <span data-target="remote-clipboard-copy.idle">                  <span class="cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:482951716,&quot;originating_url&quot;:&quot;https://github.com/PatrickAlphaC/nextjs-nft-marketplace-moralis-fcc/blob/main/components/Header.js&quot;,&quot;user_id&quot;:89362795}}" data-hydro-click-hmac="8f78766a25fa893f52a5bac7f63d4bca1574f3dd089f2e45760777c38b56d9b2">
                     Copy raw contents
 </span></span>
   <span data-target="remote-clipboard-copy.fetching" hidden="hidden">                  Copy raw contents
@@ -2799,20 +2728,20 @@
 </span>
 </remote-clipboard-copy>            </li>
             <li>
-              <a class="dropdown-item" href="/PatrickAlphaC/nextjs-nft-marketplace-moralis-fcc/blame/main/pages/index.js">
+              <a class="dropdown-item" href="/PatrickAlphaC/nextjs-nft-marketplace-moralis-fcc/blame/main/components/Header.js">
                 View blame
               </a>
             </li>
 
               <li class="dropdown-divider" role="none"></li>
               <li>
-                <a class="dropdown-item" href="/PatrickAlphaC/nextjs-nft-marketplace-moralis-fcc/edit/main/pages/index.js">Edit file</a>
+                <a class="dropdown-item" href="/PatrickAlphaC/nextjs-nft-marketplace-moralis-fcc/edit/main/components/Header.js">Edit file</a>
               </li>
                 <li>
                   <a class="dropdown-item js-github-dev-shortcut js-blob-dropdown-click" data-test-selector="small-screen-github-dev-link" data-dropdown-tracking="{&quot;type&quot;:&quot;blob_edit_dropdown.dev_link_click&quot;,&quot;context&quot;:{&quot;repository_id&quot;:482951716,&quot;actor_id&quot;:89362795,&quot;edit_enabled&quot;:true,&quot;small_screen&quot;:true}}" href="https://github.dev/">Open with github.dev</a>
                 </li>
               <li>
-                <a class="dropdown-item menu-item-danger" href="/PatrickAlphaC/nextjs-nft-marketplace-moralis-fcc/delete/main/pages/index.js">Delete file</a>
+                <a class="dropdown-item menu-item-danger" href="/PatrickAlphaC/nextjs-nft-marketplace-moralis-fcc/delete/main/components/Header.js">Delete file</a>
               </li>
         </ul>
       </details>
@@ -2849,192 +2778,83 @@
 </svg>
 </span></template>
 
-  <table data-hpc class="highlight tab-size js-file-line-container js-code-nav-container js-tagsearch-file" data-tab-size="8" data-paste-markdown-skip data-tagsearch-lang="JavaScript" data-tagsearch-path="pages/index.js">
+  <table data-hpc class="highlight tab-size js-file-line-container js-code-nav-container js-tagsearch-file" data-tab-size="8" data-paste-markdown-skip data-tagsearch-lang="JavaScript" data-tagsearch-path="components/Header.js">
         <tr>
           <td id="L1" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="1"></td>
-          <td id="LC1" class="blob-code blob-code-inner js-file-line"><span class=pl-k>import</span> <span class=pl-v>Image</span> <span class=pl-k>from</span> <span class=pl-s>&quot;next/image&quot;</span></td>
+          <td id="LC1" class="blob-code blob-code-inner js-file-line"><span class=pl-k>import</span> <span class=pl-kos>{</span> <span class=pl-v>ConnectButton</span> <span class=pl-kos>}</span> <span class=pl-k>from</span> <span class=pl-s>&quot;web3uikit&quot;</span></td>
         </tr>
         <tr>
           <td id="L2" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="2"></td>
-          <td id="LC2" class="blob-code blob-code-inner js-file-line"><span class=pl-k>import</span> <span class=pl-s1>styles</span> <span class=pl-k>from</span> <span class=pl-s>&quot;../styles/Home.module.css&quot;</span></td>
+          <td id="LC2" class="blob-code blob-code-inner js-file-line"><span class=pl-k>import</span> <span class=pl-v>Link</span> <span class=pl-k>from</span> <span class=pl-s>&quot;next/link&quot;</span></td>
         </tr>
         <tr>
           <td id="L3" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="3"></td>
-          <td id="LC3" class="blob-code blob-code-inner js-file-line"><span class=pl-k>import</span> <span class=pl-kos>{</span> <span class=pl-s1>useMoralisQuery</span><span class=pl-kos>,</span> <span class=pl-s1>useMoralis</span> <span class=pl-kos>}</span> <span class=pl-k>from</span> <span class=pl-s>&quot;react-moralis&quot;</span></td>
+          <td id="LC3" class="blob-code blob-code-inner js-file-line">
+</td>
         </tr>
         <tr>
           <td id="L4" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="4"></td>
-          <td id="LC4" class="blob-code blob-code-inner js-file-line"><span class=pl-k>import</span> <span class=pl-v>NFTBox</span> <span class=pl-k>from</span> <span class=pl-s>&quot;../components/NFTBox&quot;</span></td>
+          <td id="LC4" class="blob-code blob-code-inner js-file-line"><span class=pl-k>export</span> <span class=pl-k>default</span> <span class=pl-k>function</span> <span class=pl-v>Header</span><span class=pl-kos>(</span><span class=pl-kos>)</span> <span class=pl-kos>{</span></td>
         </tr>
         <tr>
           <td id="L5" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="5"></td>
-          <td id="LC5" class="blob-code blob-code-inner js-file-line">
-</td>
+          <td id="LC5" class="blob-code blob-code-inner js-file-line">    <span class=pl-k>return</span> <span class=pl-kos>(</span></td>
         </tr>
         <tr>
           <td id="L6" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="6"></td>
-          <td id="LC6" class="blob-code blob-code-inner js-file-line"><span class=pl-k>export</span> <span class=pl-k>default</span> <span class=pl-k>function</span> <span class=pl-v>Home</span><span class=pl-kos>(</span><span class=pl-kos>)</span> <span class=pl-kos>{</span></td>
+          <td id="LC6" class="blob-code blob-code-inner js-file-line">        <span class=pl-c1>&lt;</span><span class=pl-ent>nav</span> <span class=pl-c1>className</span><span class=pl-c1>=</span><span class=pl-s>&quot;p-5 border-b-2 flex flex-row justify-between items-center&quot;</span><span class=pl-c1>&gt;</span></td>
         </tr>
         <tr>
           <td id="L7" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="7"></td>
-          <td id="LC7" class="blob-code blob-code-inner js-file-line">    <span class=pl-k>const</span> <span class=pl-kos>{</span> isWeb3Enabled <span class=pl-kos>}</span> <span class=pl-c1>=</span> <span class=pl-en>useMoralis</span><span class=pl-kos>(</span><span class=pl-kos>)</span></td>
+          <td id="LC7" class="blob-code blob-code-inner js-file-line">            <span class=pl-c1>&lt;</span><span class=pl-ent>h1</span> <span class=pl-c1>className</span><span class=pl-c1>=</span><span class=pl-s>&quot;py-4 px-4 font-bold text-3xl&quot;</span><span class=pl-c1>&gt;</span>NFT Marketplace<span class=pl-c1>&lt;</span><span class=pl-c1>/</span><span class=pl-ent>h1</span><span class=pl-c1>&gt;</span></td>
         </tr>
         <tr>
           <td id="L8" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="8"></td>
-          <td id="LC8" class="blob-code blob-code-inner js-file-line">    <span class=pl-k>const</span> <span class=pl-kos>{</span> <span class=pl-c1>data</span>: <span class=pl-s1>listedNfts</span><span class=pl-kos>,</span> <span class=pl-c1>isFetching</span>: <span class=pl-s1>fetchingListedNfts</span> <span class=pl-kos>}</span> <span class=pl-c1>=</span> <span class=pl-en>useMoralisQuery</span><span class=pl-kos>(</span></td>
+          <td id="LC8" class="blob-code blob-code-inner js-file-line">            <span class=pl-c1>&lt;</span><span class=pl-ent>div</span> <span class=pl-c1>className</span><span class=pl-c1>=</span><span class=pl-s>&quot;flex flex-row items-center&quot;</span><span class=pl-c1>&gt;</span></td>
         </tr>
         <tr>
           <td id="L9" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="9"></td>
-          <td id="LC9" class="blob-code blob-code-inner js-file-line">        <span class=pl-c>// TableName</span></td>
+          <td id="LC9" class="blob-code blob-code-inner js-file-line">                <span class=pl-c1>&lt;</span><span class=pl-ent>Link</span> <span class=pl-c1>href</span><span class=pl-c1>=</span><span class=pl-s>&quot;/&quot;</span><span class=pl-c1>&gt;</span></td>
         </tr>
         <tr>
           <td id="L10" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="10"></td>
-          <td id="LC10" class="blob-code blob-code-inner js-file-line">        <span class=pl-c>// Function for the query</span></td>
+          <td id="LC10" class="blob-code blob-code-inner js-file-line">                    <span class=pl-c1>&lt;</span><span class=pl-ent>a</span> <span class=pl-c1>className</span><span class=pl-c1>=</span><span class=pl-s>&quot;mr-4 p-6&quot;</span><span class=pl-c1>&gt;</span>Home<span class=pl-c1>&lt;</span><span class=pl-c1>/</span><span class=pl-ent>a</span><span class=pl-c1>&gt;</span></td>
         </tr>
         <tr>
           <td id="L11" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="11"></td>
-          <td id="LC11" class="blob-code blob-code-inner js-file-line">        <span class=pl-s>&quot;ActiveItem&quot;</span><span class=pl-kos>,</span></td>
+          <td id="LC11" class="blob-code blob-code-inner js-file-line">                <span class=pl-c1>&lt;</span><span class=pl-c1>/</span><span class=pl-ent>Link</span><span class=pl-c1>&gt;</span></td>
         </tr>
         <tr>
           <td id="L12" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="12"></td>
-          <td id="LC12" class="blob-code blob-code-inner js-file-line">        <span class=pl-kos>(</span><span class=pl-s1>query</span><span class=pl-kos>)</span> <span class=pl-c1>=&gt;</span> <span class=pl-s1>query</span><span class=pl-kos>.</span><span class=pl-en>limit</span><span class=pl-kos>(</span><span class=pl-c1>10</span><span class=pl-kos>)</span><span class=pl-kos>.</span><span class=pl-en>descending</span><span class=pl-kos>(</span><span class=pl-s>&quot;tokenId&quot;</span><span class=pl-kos>)</span></td>
+          <td id="LC12" class="blob-code blob-code-inner js-file-line">                <span class=pl-c1>&lt;</span><span class=pl-ent>Link</span> <span class=pl-c1>href</span><span class=pl-c1>=</span><span class=pl-s>&quot;/sell-nft&quot;</span><span class=pl-c1>&gt;</span></td>
         </tr>
         <tr>
           <td id="L13" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="13"></td>
-          <td id="LC13" class="blob-code blob-code-inner js-file-line">    <span class=pl-kos>)</span></td>
+          <td id="LC13" class="blob-code blob-code-inner js-file-line">                    <span class=pl-c1>&lt;</span><span class=pl-ent>a</span> <span class=pl-c1>className</span><span class=pl-c1>=</span><span class=pl-s>&quot;mr-4 p-6&quot;</span><span class=pl-c1>&gt;</span>Sell NFT<span class=pl-c1>&lt;</span><span class=pl-c1>/</span><span class=pl-ent>a</span><span class=pl-c1>&gt;</span></td>
         </tr>
         <tr>
           <td id="L14" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="14"></td>
-          <td id="LC14" class="blob-code blob-code-inner js-file-line">    <span class=pl-smi>console</span><span class=pl-kos>.</span><span class=pl-en>log</span><span class=pl-kos>(</span><span class=pl-s1>listedNfts</span><span class=pl-kos>)</span></td>
+          <td id="LC14" class="blob-code blob-code-inner js-file-line">                <span class=pl-c1>&lt;</span><span class=pl-c1>/</span><span class=pl-ent>Link</span><span class=pl-c1>&gt;</span></td>
         </tr>
         <tr>
           <td id="L15" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="15"></td>
-          <td id="LC15" class="blob-code blob-code-inner js-file-line">
-</td>
+          <td id="LC15" class="blob-code blob-code-inner js-file-line">                <span class=pl-c1>&lt;</span><span class=pl-ent>ConnectButton</span> <span class=pl-c1>moralisAuth</span><span class=pl-c1>=</span><span class=pl-kos>{</span><span class=pl-c1>false</span><span class=pl-kos>}</span> <span class=pl-c1>/</span><span class=pl-c1>&gt;</span></td>
         </tr>
         <tr>
           <td id="L16" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="16"></td>
-          <td id="LC16" class="blob-code blob-code-inner js-file-line">    <span class=pl-k>return</span> <span class=pl-kos>(</span></td>
+          <td id="LC16" class="blob-code blob-code-inner js-file-line">            <span class=pl-c1>&lt;</span><span class=pl-c1>/</span><span class=pl-ent>div</span><span class=pl-c1>&gt;</span></td>
         </tr>
         <tr>
           <td id="L17" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="17"></td>
-          <td id="LC17" class="blob-code blob-code-inner js-file-line">        <span class=pl-c1>&lt;</span><span class=pl-ent>div</span> <span class=pl-c1>className</span><span class=pl-c1>=</span><span class=pl-s>&quot;container mx-auto&quot;</span><span class=pl-c1>&gt;</span></td>
+          <td id="LC17" class="blob-code blob-code-inner js-file-line">        <span class=pl-c1>&lt;</span><span class=pl-c1>/</span><span class=pl-ent>nav</span><span class=pl-c1>&gt;</span></td>
         </tr>
         <tr>
           <td id="L18" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="18"></td>
-          <td id="LC18" class="blob-code blob-code-inner js-file-line">            <span class=pl-c1>&lt;</span><span class=pl-ent>h1</span> <span class=pl-c1>className</span><span class=pl-c1>=</span><span class=pl-s>&quot;py-4 px-4 font-bold text-2xl&quot;</span><span class=pl-c1>&gt;</span>Recently Listed<span class=pl-c1>&lt;</span><span class=pl-c1>/</span><span class=pl-ent>h1</span><span class=pl-c1>&gt;</span></td>
+          <td id="LC18" class="blob-code blob-code-inner js-file-line">    <span class=pl-kos>)</span></td>
         </tr>
         <tr>
           <td id="L19" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="19"></td>
-          <td id="LC19" class="blob-code blob-code-inner js-file-line">            <span class=pl-c1>&lt;</span><span class=pl-ent>div</span> <span class=pl-c1>className</span><span class=pl-c1>=</span><span class=pl-s>&quot;flex flex-wrap&quot;</span><span class=pl-c1>&gt;</span></td>
-        </tr>
-        <tr>
-          <td id="L20" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="20"></td>
-          <td id="LC20" class="blob-code blob-code-inner js-file-line">                <span class=pl-kos>{</span><span class=pl-s1>isWeb3Enabled</span> ? <span class=pl-kos>(</span></td>
-        </tr>
-        <tr>
-          <td id="L21" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="21"></td>
-          <td id="LC21" class="blob-code blob-code-inner js-file-line">                    <span class=pl-s1>fetchingListedNfts</span> ? <span class=pl-kos>(</span></td>
-        </tr>
-        <tr>
-          <td id="L22" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="22"></td>
-          <td id="LC22" class="blob-code blob-code-inner js-file-line">                        <span class=pl-c1>&lt;</span><span class=pl-ent>div</span><span class=pl-c1>&gt;</span>Loading...<span class=pl-c1>&lt;</span><span class=pl-c1>/</span><span class=pl-ent>div</span><span class=pl-c1>&gt;</span></td>
-        </tr>
-        <tr>
-          <td id="L23" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="23"></td>
-          <td id="LC23" class="blob-code blob-code-inner js-file-line">                    <span class=pl-kos>)</span> : <span class=pl-kos>(</span></td>
-        </tr>
-        <tr>
-          <td id="L24" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="24"></td>
-          <td id="LC24" class="blob-code blob-code-inner js-file-line">                        <span class=pl-s1>listedNfts</span><span class=pl-kos>.</span><span class=pl-en>map</span><span class=pl-kos>(</span><span class=pl-kos>(</span><span class=pl-s1>nft</span><span class=pl-kos>)</span> <span class=pl-c1>=&gt;</span> <span class=pl-kos>{</span></td>
-        </tr>
-        <tr>
-          <td id="L25" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="25"></td>
-          <td id="LC25" class="blob-code blob-code-inner js-file-line">                            <span class=pl-smi>console</span><span class=pl-kos>.</span><span class=pl-en>log</span><span class=pl-kos>(</span><span class=pl-s1>nft</span><span class=pl-kos>.</span><span class=pl-c1>attributes</span><span class=pl-kos>)</span></td>
-        </tr>
-        <tr>
-          <td id="L26" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="26"></td>
-          <td id="LC26" class="blob-code blob-code-inner js-file-line">                            <span class=pl-k>const</span> <span class=pl-kos>{</span> price<span class=pl-kos>,</span> nftAddress<span class=pl-kos>,</span> tokenId<span class=pl-kos>,</span> marketplaceAddress<span class=pl-kos>,</span> seller <span class=pl-kos>}</span> <span class=pl-c1>=</span></td>
-        </tr>
-        <tr>
-          <td id="L27" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="27"></td>
-          <td id="LC27" class="blob-code blob-code-inner js-file-line">                                <span class=pl-s1>nft</span><span class=pl-kos>.</span><span class=pl-c1>attributes</span></td>
-        </tr>
-        <tr>
-          <td id="L28" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="28"></td>
-          <td id="LC28" class="blob-code blob-code-inner js-file-line">                            <span class=pl-k>return</span> <span class=pl-kos>(</span></td>
-        </tr>
-        <tr>
-          <td id="L29" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="29"></td>
-          <td id="LC29" class="blob-code blob-code-inner js-file-line">                                <span class=pl-c1>&lt;</span><span class=pl-ent>NFTBox</span></td>
-        </tr>
-        <tr>
-          <td id="L30" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="30"></td>
-          <td id="LC30" class="blob-code blob-code-inner js-file-line">                                    <span class=pl-c1>price</span><span class=pl-c1>=</span><span class=pl-kos>{</span><span class=pl-s1>price</span><span class=pl-kos>}</span></td>
-        </tr>
-        <tr>
-          <td id="L31" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="31"></td>
-          <td id="LC31" class="blob-code blob-code-inner js-file-line">                                    <span class=pl-c1>nftAddress</span><span class=pl-c1>=</span><span class=pl-kos>{</span><span class=pl-s1>nftAddress</span><span class=pl-kos>}</span></td>
-        </tr>
-        <tr>
-          <td id="L32" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="32"></td>
-          <td id="LC32" class="blob-code blob-code-inner js-file-line">                                    <span class=pl-c1>tokenId</span><span class=pl-c1>=</span><span class=pl-kos>{</span><span class=pl-s1>tokenId</span><span class=pl-kos>}</span></td>
-        </tr>
-        <tr>
-          <td id="L33" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="33"></td>
-          <td id="LC33" class="blob-code blob-code-inner js-file-line">                                    <span class=pl-c1>marketplaceAddress</span><span class=pl-c1>=</span><span class=pl-kos>{</span><span class=pl-s1>marketplaceAddress</span><span class=pl-kos>}</span></td>
-        </tr>
-        <tr>
-          <td id="L34" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="34"></td>
-          <td id="LC34" class="blob-code blob-code-inner js-file-line">                                    <span class=pl-c1>seller</span><span class=pl-c1>=</span><span class=pl-kos>{</span><span class=pl-s1>seller</span><span class=pl-kos>}</span></td>
-        </tr>
-        <tr>
-          <td id="L35" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="35"></td>
-          <td id="LC35" class="blob-code blob-code-inner js-file-line">                                    <span class=pl-c1>key</span><span class=pl-c1>=</span><span class=pl-kos>{</span><span class=pl-s>`<span class=pl-s1><span class=pl-kos>${</span><span class=pl-s1>nftAddress</span><span class=pl-kos>}</span></span><span class=pl-s1><span class=pl-kos>${</span><span class=pl-s1>tokenId</span><span class=pl-kos>}</span></span>`</span><span class=pl-kos>}</span></td>
-        </tr>
-        <tr>
-          <td id="L36" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="36"></td>
-          <td id="LC36" class="blob-code blob-code-inner js-file-line">                                <span class=pl-c1>/</span><span class=pl-c1>&gt;</span></td>
-        </tr>
-        <tr>
-          <td id="L37" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="37"></td>
-          <td id="LC37" class="blob-code blob-code-inner js-file-line">                            <span class=pl-kos>)</span></td>
-        </tr>
-        <tr>
-          <td id="L38" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="38"></td>
-          <td id="LC38" class="blob-code blob-code-inner js-file-line">                        <span class=pl-kos>}</span><span class=pl-kos>)</span></td>
-        </tr>
-        <tr>
-          <td id="L39" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="39"></td>
-          <td id="LC39" class="blob-code blob-code-inner js-file-line">                    <span class=pl-kos>)</span></td>
-        </tr>
-        <tr>
-          <td id="L40" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="40"></td>
-          <td id="LC40" class="blob-code blob-code-inner js-file-line">                <span class=pl-kos>)</span> : <span class=pl-kos>(</span></td>
-        </tr>
-        <tr>
-          <td id="L41" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="41"></td>
-          <td id="LC41" class="blob-code blob-code-inner js-file-line">                    <span class=pl-c1>&lt;</span><span class=pl-ent>div</span><span class=pl-c1>&gt;</span>Web3 Currently Not Enabled<span class=pl-c1>&lt;</span><span class=pl-c1>/</span><span class=pl-ent>div</span><span class=pl-c1>&gt;</span></td>
-        </tr>
-        <tr>
-          <td id="L42" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="42"></td>
-          <td id="LC42" class="blob-code blob-code-inner js-file-line">                <span class=pl-kos>)</span><span class=pl-kos>}</span></td>
-        </tr>
-        <tr>
-          <td id="L43" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="43"></td>
-          <td id="LC43" class="blob-code blob-code-inner js-file-line">            <span class=pl-c1>&lt;</span><span class=pl-c1>/</span><span class=pl-ent>div</span><span class=pl-c1>&gt;</span></td>
-        </tr>
-        <tr>
-          <td id="L44" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="44"></td>
-          <td id="LC44" class="blob-code blob-code-inner js-file-line">        <span class=pl-c1>&lt;</span><span class=pl-c1>/</span><span class=pl-ent>div</span><span class=pl-c1>&gt;</span></td>
-        </tr>
-        <tr>
-          <td id="L45" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="45"></td>
-          <td id="LC45" class="blob-code blob-code-inner js-file-line">    <span class=pl-kos>)</span></td>
-        </tr>
-        <tr>
-          <td id="L46" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="46"></td>
-          <td id="LC46" class="blob-code blob-code-inner js-file-line"><span class=pl-kos>}</span></td>
+          <td id="LC19" class="blob-code blob-code-inner js-file-line"><span class=pl-kos>}</span></td>
         </tr>
   </table>
 </div>
@@ -3060,7 +2880,7 @@
             Copy permalink
           </clipboard-copy>
         </li>
-        <li><a class="dropdown-item js-update-url-with-hash" id="js-view-git-blame" role="menuitem" href="/PatrickAlphaC/nextjs-nft-marketplace-moralis-fcc/blame/938aae2e7b62a0502bc345df26df77d2a8615177/pages/index.js">View git blame</a></li>
+        <li><a class="dropdown-item js-update-url-with-hash" id="js-view-git-blame" role="menuitem" href="/PatrickAlphaC/nextjs-nft-marketplace-moralis-fcc/blame/938aae2e7b62a0502bc345df26df77d2a8615177/components/Header.js">View git blame</a></li>
           <li><a class="dropdown-item" id="js-new-issue" role="menuitem" href="/PatrickAlphaC/nextjs-nft-marketplace-moralis-fcc/issues/new">Reference in new issue</a></li>
       </ul>
     </details-menu>
